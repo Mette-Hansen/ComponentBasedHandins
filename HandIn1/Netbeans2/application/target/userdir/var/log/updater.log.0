@@ -1,0 +1,42 @@
+apr. 09, 2022 8:50:00 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking dk-sdu-mmmi-cbse-Asteroid.nbm
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Backup file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\config\Modules\dk-sdu-mmmi-cbse-Asteroid.xml to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\backup\netbeans\config\Modules\dk-sdu-mmmi-cbse-Asteroid.xml
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\config\Modules\dk-sdu-mmmi-cbse-Asteroid.xml deleted.
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\download\dk-sdu-mmmi-cbse-Asteroid.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Asteroid.xml to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\config\Modules\dk-sdu-mmmi-cbse-Asteroid.xml
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Backup file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\modules\dk-sdu-mmmi-cbse-Asteroid.jar to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\backup\netbeans\modules\dk-sdu-mmmi-cbse-Asteroid.jar
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\modules\dk-sdu-mmmi-cbse-Asteroid.jar deleted.
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\download\dk-sdu-mmmi-cbse-Asteroid.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Asteroid.jar to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\modules\dk-sdu-mmmi-cbse-Asteroid.jar
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\download\dk-sdu-mmmi-cbse-Asteroid.nbm deleted.
+apr. 09, 2022 8:50:03 AM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@bc8fe0c
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.UpdateTracking$Module write
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update_tracking\dk-sdu-mmmi-cbse-Asteroid.xml modified.
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking dk-sdu-mmmi-cbse-CommonAsteroids.nbm
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Backup file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\config\Modules\dk-sdu-mmmi-cbse-CommonAsteroids.xml to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\backup\netbeans\config\Modules\dk-sdu-mmmi-cbse-CommonAsteroids.xml
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\config\Modules\dk-sdu-mmmi-cbse-CommonAsteroids.xml deleted.
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\download\dk-sdu-mmmi-cbse-CommonAsteroids.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-CommonAsteroids.xml to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\config\Modules\dk-sdu-mmmi-cbse-CommonAsteroids.xml
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Backup file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\modules\dk-sdu-mmmi-cbse-CommonAsteroids.jar to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\backup\netbeans\modules\dk-sdu-mmmi-cbse-CommonAsteroids.jar
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\modules\dk-sdu-mmmi-cbse-CommonAsteroids.jar deleted.
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\download\dk-sdu-mmmi-cbse-CommonAsteroids.nbm:netbeans/modules/dk-sdu-mmmi-cbse-CommonAsteroids.jar to C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\modules\dk-sdu-mmmi-cbse-CommonAsteroids.jar
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update\download\dk-sdu-mmmi-cbse-CommonAsteroids.nbm deleted.
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@508e5a37
+apr. 09, 2022 8:50:04 AM org.netbeans.updater.UpdateTracking$Module write
+INFO: File C:\Users\Mette\Documents\4-sem\KomponentbaseredeSystemer\Netbeans2\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules\update_tracking\dk-sdu-mmmi-cbse-CommonAsteroids.xml modified.
